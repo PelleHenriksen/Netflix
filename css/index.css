@@ -1,0 +1,166 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 100vh;
+  background: url(https://occ-0-149-4419.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfGHgPSeQH4_49sBWFIuv11KAKbW4PNNDbf1a_POAqXbHPzslrEhpZV5CIbNgv3x1vo-rfrPwvgDpOqZRPIpQzbXcFl-a6O_blRd.webp?r=b97)
+    no-repeat center;
+  background-size: cover;
+}
+
+body {
+  background: #141414;
+}
+
+.border {
+  padding: 0% 4%;
+}
+
+li {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav {
+  position: fixed;
+  z-index: 99;
+  padding-top: 1%;
+  width: 100%;
+  padding: 15px 4%;
+}
+
+.BgColour {
+  background-color: #141414;
+}
+
+nav a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+}
+
+a:nth-child(7) {
+  margin-right: 350px;
+}
+
+#logo img {
+  width: 110px;
+}
+
+#profile img {
+  width: 30px;
+  border-radius: 10%;
+}
+
+.ballers-text {
+  margin-top: 70px;
+
+  width: 442px;
+}
+
+.description {
+  width: 454px;
+  font-size: 15.4px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45);
+  line-height: normal;
+  margin-bottom: 20px;
+}
+
+.btns {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.play {
+  border: transparent;
+  border-radius: 5%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 131px;
+  height: 43.5px;
+  font-size: 17.5px;
+}
+
+.btns i {
+  font-size: 25px;
+}
+
+.movie-info {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 20px;
+  height: 43.5px;
+  width: 161px;
+  background-color: gray;
+  color: #fff;
+  border: transparent;
+  border-radius: 5%;
+}
+
+.movie-catagories {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.slider {
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.slider-title {
+  margin: 10px 0;
+  color: #fff;
+}
+
+.slider-container {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slider-list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.slider-list li {
+  flex: 0 0 auto;
+  margin-right: 10px;
+}
+
+.slider-list li:hover {
+  scale: 1.2;
+}
+
+.slider-list li img {
+  width: 229.9px;
+  height: 128px;
+}
+
+.slide-button {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  background: transparent;
+  border: transparent;
+  font-size: 30px;
+  color: #fff;
+}

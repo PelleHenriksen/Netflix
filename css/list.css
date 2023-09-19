@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.slider {
+  padding: 0 4%;
+}
+
+.slider-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.slider-list li {
+  flex: 0 0 auto;
+  margin-right: 10px;
+}
+
+.slider-list li:hover {
+  scale: 1.2;
+}
+
+.slider-list li img {
+  width: 229.9px;
+  height: 128px;
+}
+
+.test {
+  display: flex;
+}

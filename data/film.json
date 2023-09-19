@@ -1,0 +1,683 @@
+[
+  {
+    "Id": 1,
+    "Title": "The Shawshank Redemption",
+    "Description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/707/720/1460129967-fb268e38a6cd347a2ba3be39bf6d8334f3504980.jpg?",
+    "Category": ["Drama", "Crime"]
+  },
+  {
+    "Id": 2,
+    "Title": "Pulp Fiction",
+    "Description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/771/672/1473257890-8d137221da8f1118f18ceb54a59bc246f964052a.jpg?",
+    "Category": ["Crime", "Drama"]
+  },
+  {
+    "Id": 3,
+    "Title": "Fight Club",
+    "Description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/613/772/1508486250-bb1517818d5de2726ee52223403394f36484f7dd.jpg",
+    "Category": ["Drama", "Thriller"]
+  },
+  {
+    "Id": 4,
+    "Title": "Forrest Gump",
+    "Description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+    "Image": "https://occ-0-73-2774.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABa_DIDH4vJWtBGJYelF9wN8nyK3Q66zDKnL_k3gvm0JEfCN2XgVPqpZlxSrUle0z18sDSd0LNCsTedp8Io6EvJ65glZ9GNmnLb8.webp?r=e7f",
+    "Category": ["Drama", "Romance"]
+  },
+  {
+    "Id": 5,
+    "Title": "Schindler's List",
+    "Description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/43/340/1460162168-d69fdc5f6c14249dcc4732b96aa4c57379806192.jpg?",
+    "Category": ["Biography", "Drama", "History"]
+  },
+  {
+    "Id": 6,
+    "Title": "The Social Network",
+    "Description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/816/780/1460036766-5278c480d1ad198f553953bff77289c52976f2d8.jpg?",
+    "Category": ["Biography", "Drama"]
+  },
+  {
+    "Id": 7,
+    "Title": "The Godfather",
+    "Description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "Image": "https://occ-0-73-2774.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdoJ8CORfs1fpel9Z__HpsAdXYWEH6u4FrE5CX1mjjgMRaAhJPu9Cd0YciG_irArKxxACN1cxHkV19msrjIh7OylrXsMdshmF64.webp?r=0ed",
+    "Category": ["Drama", "Crime"]
+  },
+  {
+    "Id": 8,
+    "Title": "The Dark Knight",
+    "Description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/254/888/1460155958-fb1a5c251b5752848a84ba70ff0e2cc836903846.jpg?",
+    "Category": ["Action", "Crime", "Drama"]
+  },
+  {
+    "Id": 9,
+    "Title": "Goodfellas",
+    "Description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/612/384/1460146096-e83c66533d1eabea355339ad77b56c1ce0960f26.jpg?",
+    "Category": ["Biography", "Crime", "Drama"]
+  },
+  {
+    "Id": 10,
+    "Title": "The Departed",
+    "Description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/828/880/1460155844-b4810e923c1becf53c2d1b8e41c6782b64919fa0.jpg?",
+    "Category": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "Id": 11,
+    "Title": "The Silence of the Lambs",
+    "Description": "A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/943/928/1509369723-2dfd26a4a6f04541b78063113d985a32be59f988.jpg?",
+    "Category": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "Id": 12,
+    "Title": "The Green Mile",
+    "Description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/956/932/1460155778-1f7113b995c1ff3f97aea19638d6334165493c83.jpg?",
+    "Category": ["Crime", "Drama", "Fantasy"]
+  },
+  {
+    "Id": 13,
+    "Title": "American Beauty",
+    "Description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/344/576/1460156656-2acfca7565a3fcc58b160b5ebb9c2206d917e63f.jpg?",
+    "Category": ["Drama", "Thriller"]
+  },
+  {
+    "Id": 14,
+    "Title": "The Pursuit of Happyness",
+    "Description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+    "Image": "https://occ-0-73-2774.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABRx--epnkaeaSPuF5mG5-uSY8nA94GvTX34UKY8dWhTFoa1V1s8uhwnU-_mx9jqIG_UXmpiHxRsFTo9G3_9348TDd2jYV5FSXjSJVQuUqcl-cM9bRRn7gppZcoSNdBhBCm3MowbLj_uXNIq65obOo_EIyPo8ae7IHLEhFya8B2ybkkyAFvInVZoO4DBzpBRFxnHzu6Vek4EqeaGhJfVtEeptEuJWMUBB-INOX8bvy_cYo9BvTQ9FTOSLVKoD7ONX9b7lGSKBdD2eXXwICBWLY5um5H0.webp?r=6ee",
+    "Category": ["Biography", "Drama"]
+  },
+  {
+    "Id": 15,
+    "Title": "A Beautiful Mind",
+    "Description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/585/344/1460156328-36d9aeb269dc5e8735bfcda053ded0b115a0aa60.jpg?",
+    "Category": ["Biography", "Drama"]
+  },
+  {
+    "Id": 16,
+    "Title": "Dead Poets Society",
+    "Description": "English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/700/692/1535026876-54661ae9491235e7cac31aae2facf4c1154911e7.jpg?",
+    "Category": "Drama"
+  },
+  {
+    "Id": 17,
+    "Title": "The King's Speech",
+    "Description": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/670/156/1512740056-d19067349af55bf4618f56f8ed779abb1b0900dd.jpg?",
+    "Category": ["Biography", "Drama", "History"]
+  },
+  {
+    "Id": 18,
+    "Title": "12 Years a Slave",
+    "Description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/291/764/1581413491-c414131eb6c0f55f3de3223eff71f89e872c344c.jpg?",
+    "Category": ["Biography", "Drama", "History"]
+  },
+  {
+    "Id": 19,
+    "Title": "Gladiator",
+    "Description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/960/452/1653035695-a283ffc1ca178b1fcaef22ec558f8e7d9faad0e4.jpg?",
+    "Category": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "Id": 20,
+    "Title": "The Revenant",
+    "Description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/807/664/1462779234-ef2f43356cb14c8f37869b20718a4c5c344e72d1.jpg?",
+    "Category": ["Adventure", "Drama", "Thriller"]
+  },
+  {
+    "Id": 21,
+    "Title": "Rain Man",
+    "Description": "Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/177/988/1550668581-eb5fdd95ed1ae091209db886041678260ec959c5.jpg?",
+    "Category": "Drama"
+  },
+  {
+    "Id": 22,
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "Image": "https://imgs.search.brave.com/lUQLjmCzOHb4ZXggiJpgGHdg6pQzayrpeZnn5hx3Aek/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDIzOTI3/MzkuanBn",
+    "Category": ["Drama", "Romance", "Sci-Fi"]
+  },
+  {
+    "Id": 23,
+    "Title": "The Notebook",
+    "Description": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/191/928/1516977068-94c13d802735bc728eae49e6d63a21eb11c323bb.jpg",
+    "Category": ["Drama", "Romance"]
+  },
+  {
+    "Id": 24,
+    "Title": "The Fault in Our Stars",
+    "Description": "Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/257/968/1460969858-72b0f9f251d5c2bf95d08c71de32861a43eed48a.jpg?",
+    "Category": ["Drama", "Romance"]
+  },
+  {
+    "Id": 25,
+    "Title": "La La Land",
+    "Description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/666/8/1494415927-a8fc588294dc21d88c3b184ccbdc7807d229bb98.jpg?",
+    "Category": ["Comedy", "Drama"]
+  },
+  {
+    "Id": 26,
+    "Title": "Manchester by the Sea",
+    "Description": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/565/856/1495544810-d59916015346a51789c56fd2a843f390cff925f2.jpg?",
+    "Category": "Drama"
+  },
+  {
+    "Id": 27,
+    "Title": "Silver Linings Playbook",
+    "Description": "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/786/752/1625336581-5a3a7a483582ba93153fc97b341efc0ddefa8ce0.jpg?",
+    "Category": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "Id": 28,
+    "Title": "Life of Pi",
+    "Description": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/702/788/1460119750-ba66684123cd1b2b5451611759c876595c3ed305.jpg?",
+    "Category": ["Adventure", "Drama", "Fantasy"]
+  },
+  {
+    "Id": 29,
+    "Title": "Gone with the Wind",
+    "Description": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/569/952/1460167679-1c530caa11cddc6ed08cfdaf857e9f8ce38d1963.jpg?",
+    "Category": ["Drama", "Romance"]
+  },
+
+  {
+    "Id": 30,
+    "Title": "Inception",
+    "Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/934/564/1460158962-aa63ce74b4e89191114a33118191a291a731cf4f.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 31,
+    "Title": "The Matrix",
+    "Description": "A computer programmer discovers that reality as he knows it is a simulation created by machines, and he joins a group of rebels to fight against them.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/525/652/1460157950-eee08228d62b51ab131069db413d93a725441084.jpg?",
+    "Category": ["Action", "Sci-Fi"]
+  },
+  {
+    "Id": 32,
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Description": "A young hobbit, Frodo, and his companions set out on a journey to destroy a powerful ring and save Middle-earth from the dark lord Sauron.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/606/408/1460127005-73ecdb6dd870a5e1e34ffc2cc8766c11bd7b5209.jpg?",
+    "Category": ["Action", "Adventure", "Fantasy"]
+  },
+  {
+    "Id": 33,
+    "Title": "Avatar",
+    "Description": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, but he becomes torn between following orders and protecting the alien civilization.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/233/160/1680510206-27c08a10b2ddd6cdb75c238a7d042fe5f0391b74.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 34,
+    "Title": "The Matrix Reloaded",
+    "Description": "Neo, Trinity, and Morpheus continue their struggle against the machines that control the Matrix, while Zion prepares for a massive war.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/526/128/1460157949-bda11fc42119eb208c31493cc88df95d9faf123f.jpg?",
+    "Category": ["Action", "Sci-Fi"]
+  },
+  {
+    "Id": 35,
+    "Title": "The Matrix Revolutions",
+    "Description": "Neo and his allies race against time to stop the machines from destroying Zion and ending humanity's last hope.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/526/128/1465482373-066904a705501c9980f05d479ef3d18d85c02e62.jpg?",
+    "Category": ["Action", "Sci-Fi"]
+  },
+  {
+    "Id": 36,
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Description": "Frodo and Sam continue their journey to Mordor, while the other members of the fellowship aid the people of Rohan and prepare for battle.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/347/876/1553181387-1a4cc3c813501d40184b1e07d7a52f01e94a40f9.jpg?",
+    "Category": ["Action", "Adventure", "Fantasy"]
+  },
+  {
+    "Id": 37,
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Description": "The final battle for Middle-earth begins as Frodo and Sam approach Mount Doom to destroy the One Ring, while the Free Peoples of Middle-earth prepare for war.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/605/932/1460129104-bf25ab187543fde4e897e908c6ab8190e592ea5d.jpg?",
+    "Category": ["Action", "Adventure", "Fantasy"]
+  },
+  {
+    "Id": 38,
+    "Title": "Titanic",
+    "Description": "A young couple's love blossoms aboard the ill-fated RMS Titanic as it sails on its maiden voyage across the Atlantic Ocean.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/340/860/1555402448-ccf033997d8bc8c65b6a141b79b1b986b66eebf0.jpg?",
+    "Category": ["Drama", "Romance"]
+  },
+  {
+    "Id": 39,
+    "Title": "Jurassic Park",
+    "Description": "A group of scientists and visitors are trapped on an island populated by cloned dinosaurs when a power failure allows the creatures to roam free.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/218/828/1686302793-ee1a2977358ad5dac086ff277b8bc6c7ac1dbd1d.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 40,
+    "Title": "The Avengers",
+    "Description": "Earth's mightiest heroes, including Iron Man, Captain America, Thor, and the Hulk, must join forces to thwart the evil plans of Loki and his alien army.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/479/968/1519721285-b44de08deaa23cf3c5f9684c354f6fda0418c83d.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+
+  {
+    "Id": 41,
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Description": "Luke Skywalker joins forces with Princess Leia, Han Solo, and Obi-Wan Kenobi to battle the evil Galactic Empire.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/16/752/1573718649-49962d8e3c9ef1626f3e81e78e6d740887ddd3d1.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 42,
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Description": "The Rebel Alliance faces a setback as they are pursued by Darth Vader and the Imperial fleet.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/21/132/1573718914-e3b327985fd2e2cbaf2c06e7a63290d434f6a2c5.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 43,
+    "Title": "Star Wars: Episode VI - Return of the Jedi",
+    "Description": "Luke Skywalker and his friends lead a rebellion to save the galaxy from the tyranny of the Sith.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/20/656/1573719023-050484274057967ae5a053339e9dda9d3a7aaeab.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 44,
+    "Title": "Star Wars: Episode I - The Phantom Menace",
+    "Description": "Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi uncover a hidden threat while protecting Queen Amidala.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/14/800/1573717645-76744ed13759186fe2b5fcff2b9a9e73d208a23b.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 45,
+    "Title": "Star Wars: Episode II - Attack of the Clones",
+    "Description": "Anakin Skywalker begins his Jedi training while tensions rise in the galaxy.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/14/800/1573717987-b52addbb96f8b713dd7db99cf2a676f5b3491f9d.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 46,
+    "Title": "Star Wars: Episode III - Revenge of the Sith",
+    "Description": "The Republic falls into darkness as Anakin Skywalker turns to the dark side and becomes Darth Vader.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/16/252/1573718169-d489a6ecefcb2a15c8ecd82480b1f0dff33eed33.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 47,
+    "Title": "Star Wars: The Clone Wars (Animated film)",
+    "Description": "Anakin Skywalker and his padawan Ahsoka Tano battle against the forces of the dark side during the Clone Wars.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/34/264/1536222536-aaf65f755ff3d511c5a3baa697a40f91ebbacffc.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 48,
+    "Title": "Star Wars: Episode VII - The Force Awakens",
+    "Description": "A new generation of heroes rises to face the First Order and seek Luke Skywalker's help.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/15/276/1573717533-40cd005200880e8692d7fb485932e000f2516ba4.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 49,
+    "Title": "Rogue One: A Star Wars Story",
+    "Description": "A group of rebels embarks on a mission to steal the Death Star plans and bring hope to the galaxy.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/362/492/1574938426-eff4f79780ce384f37eb10f6eafa3b7ec825f8dd.jpg",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 50,
+    "Title": "Star Wars: Episode VIII - The Last Jedi",
+    "Description": "The Resistance faces the First Order while Rey seeks to learn the ways of the Jedi from Luke Skywalker.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/22/108/1573719228-a61f15c4a30b3ac3423dc9dcdcf44e4ecd9d8b2b.jpg",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 51,
+    "Title": "Solo: A Star Wars Story",
+    "Description": "Han Solo embarks on a daring adventure in the criminal underworld and meets Chewbacca and Lando Calrissian.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/364/444/1574937230-09e87c61a2dfbb7a89e0d4372ba950d7d5c22d80.jpg",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 52,
+    "Title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "Description": "The final battle between the Resistance and the First Order, with the return of Emperor Palpatine.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/115/860/1585666506-633b73edc54bea2138ad705e447529a8671242f2.jpg?",
+    "Category": ["Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "Id": 53,
+    "Title": "Harry Potter and the Sorcerer's Stone (or Philosopher's Stone)",
+    "Description": "A young wizard, Harry Potter, discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/946/876/1595571970-eaffd1226406ae4d891f24330aa0d8509b04cb6c.jpg",
+    "Category": ["Fantasy", "Adventure"]
+  },
+  {
+    "Id": 54,
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Description": "Harry Potter returns to Hogwarts and investigates a series of attacks with the help of his friends.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/946/876/1595572811-c5db94646d8f5af6ffafe82064f719445f420d80.jpg?",
+    "Category": ["Fantasy", "Adventure"]
+  },
+  {
+    "Id": 55,
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Description": "Harry learns more about his family's past and the dangerous prisoner Sirius Black escapes from Azkaban.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/946/376/1595574339-1e8978b56098a174c6fd2bbe619345d85b207fc3.jpg?",
+    "Category": ["Fantasy", "Adventure"]
+  },
+  {
+    "Id": 56,
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Description": "Harry is unexpectedly entered into the Triwizard Tournament and faces new challenges and dangers.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/15/644/1595575606-27e7616cf5492e0845dba1972781c981f119af8c.jpg",
+    "Category": ["Fantasy", "Adventure"]
+  },
+  {
+    "Id": 57,
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Description": "Harry and his friends form a secret group to fight against the rise of the dark wizard Voldemort.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/16/120/1595577670-5255aca19879c858af9080eea031ba5eb14a5e92.jpg?",
+    "Category": ["Fantasy", "Adventure"]
+  },
+  {
+    "Id": 58,
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "Description": "Harry learns more about Voldemort's past and searches for Horcruxes to defeat him.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/16/120/1595580184-88a15cccb0f9c65f7806a9cf607a2b0240974c87.jpg?",
+    "Category": ["Fantasy", "Adventure"]
+  },
+  {
+    "Id": 59,
+    "Title": "Harry Potter and the Deathly Hallows – Part 1",
+    "Description": "Harry, Ron, and Hermione set out on a quest to destroy Horcruxes and stop Voldemort's reign of terror.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/21/1000/1595581357-2978e3aaa227f1f14b91e58a0947d51d067687b1.jpg?",
+    "Category": ["Fantasy", "Adventure"]
+  },
+  {
+    "Id": 60,
+    "Title": "Harry Potter and the Deathly Hallows – Part 2",
+    "Description": "The final battle between Harry and Voldemort takes place at Hogwarts, determining the fate of the wizarding world.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/32/236/1595582440-3499b9ed9f93c9abdf1431677af2d0fafc473bc9.jpg?",
+    "Category": ["Fantasy", "Adventure"]
+  },
+  {
+    "Id": 61,
+    "Title": "Raiders of the Lost Ark",
+    "Description": "Indiana Jones embarks on a quest to find the Ark of the Covenant before the Nazis do.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/678/156/1518088315-bb259b5f5e20f45e200a2233499b4a23c7081494.jpg?",
+    "Category": ["Action", "Adventure"]
+  },
+  {
+    "Id": 62,
+    "Title": "Indiana Jones and the Temple of Doom",
+    "Description": "Indiana Jones travels to India and encounters a secret cult while searching for mystical stones.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/267/520/1518089716-04b2f2f6ad3bcf4dbd4130e41a4479300b9bc452.jpg?",
+    "Category": ["Action", "Adventure"]
+  },
+  {
+    "Id": 63,
+    "Title": "Indiana Jones and the Last Crusade",
+    "Description": "Indiana Jones teams up with his father to find the Holy Grail and stop the Nazis.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/678/656/1518090369-a5ab5a9d06253984aa9ac049720670b0ff009118.jpg?",
+    "Category": ["Action", "Adventure"]
+  },
+  {
+    "Id": 64,
+    "Title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "Description": "Indiana Jones returns to face Soviet agents and uncover the secrets of a crystal skull.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/825/8/1459946084-c309885cb591056b25efd69e004f84b0bd03b06d.jpg?",
+    "Category": ["Action", "Adventure"]
+  },
+  {
+    "Id": 65,
+    "Title": "Deadpool",
+    "Description": "Wade Wilson, a former Special Forces operative, becomes Deadpool, a wisecracking antihero with accelerated healing powers, on a quest for revenge.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/63/912/1464705410-9699dd42556826970177e24b6561b50af9604f37.jpg?",
+    "Category": ["Action", "Comedy", "Adventure"]
+  },
+  {
+    "Id": 66,
+    "Title": "Deadpool 2",
+    "Description": "Deadpool assembles a team of mutants known as X-Force to protect a young mutant from the time-traveling soldier Cable.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/199/260/1536829245-57aa04aca47eee78f7cc874e22a7399417d5b4bc.jpg",
+    "Category": ["Action", "Comedy", "Adventure"]
+  },
+  {
+    "Id": 67,
+    "Title": "Spider-Man",
+    "Description": "High school student Peter Parker gains superpowers and becomes Spider-Man to combat the villainous Green Goblin.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/157/420/1624523197-e0e0bbe6a981f8a67a303a76efb17f7427f2b187.jpg",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 68,
+    "Title": "Spider-Man 2",
+    "Description": "Peter Parker struggles to balance his life as Spider-Man with his personal life, while facing the new threat of Doctor Octopus.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/938/348/1460156822-b54805437c61a87a4835e70e1dcfb00f7c93f98c.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 69,
+    "Title": "Spider-Man 3",
+    "Description": "Peter Parker faces new challenges as he battles his inner demons and combats villains, including Sandman and Venom.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/200/452/1460162613-1f1a4680ff666d436649c13823adb8a1b57d450c.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 70,
+    "Title": "The Amazing Spider-Man",
+    "Description": "Peter Parker, a young outcast, becomes Spider-Man and faces the deadly Lizard as his first adversary.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/70/584/1466178289-76caee66edac669644afc6da93fad8813d1d14ab.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 71,
+    "Title": "The Amazing Spider-Man 2",
+    "Description": "Spider-Man battles Electro and the Green Goblin while delving into the mystery of his parents' disappearance.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/69/108/1495196059-667038ddf96bfc79f401bc4cc9abbb6fafbe2487.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 72,
+    "Title": "Spider-Man: Homecoming",
+    "Description": "A young Peter Parker navigates high school life while facing off against the Vulture as Spider-Man.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/162/620/1519297185-cff5d86799b0ec22f8089f7dfa3611bc2a96299b.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 73,
+    "Title": "Spider-Man: Far From Home",
+    "Description": "Spider-Man goes on a school trip to Europe and faces a new threat in the form of Mysterio.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/480/72/1569248514-5afeb624a50dd4cd6932e1513f32f63d20be50f9.jpg?",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 74,
+    "Title": "Fifty Shades of Grey",
+    "Description": "A literature student Anastasia Steele meets a handsome, yet tormented, billionaire named Christian Grey.",
+    "Image": "https://occ-0-149-4419.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABchN964gwJjpBUdQxiKSdqBHsgfZBQ9hAJAVEkhJJu_FjR5nnx5P2fQBtkFv6tpm6WVhGIyKTgBzlFAeiOLiidNkLKcERc0WuEU.webp?r=be2",
+    "Category": ["Drama", "Romance"]
+  },
+  {
+    "Id": 75,
+    "Title": "Fifty Shades Darker",
+    "Description": "While Christian wrestles with his inner demons, Anastasia must confront the anger and envy of the women who came before her.",
+    "Image": "https://occ-0-149-4419.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABe6TLILCi9kv7UwagSAp7EVwfxdMCcpLjsyNEmgATJJjZ00P9dggOOCvqKx4_ltpMcfk4VNlYwHW51jI3r28pDnlRERA-9i33i0.webp?r=8a8",
+    "Category": ["Drama", "Romance"]
+  },
+  {
+    "Id": 76,
+    "Title": "Fifty Shades Freed",
+    "Description": "Anastasia and Christian get married, but Jack Hyde continues to threaten their relationship.",
+    "Image": "https://occ-0-149-4419.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdDFZ__loGae1kTvuBCREnXhsohjqBzNQJezInZ5GO_A5zqvHj-akGB1kNst6NHeLrwbj6U1UXqIxYA0yg1gcC5j1UtVm0kX0sACVSdrV431b_egZdCm87GNYhn0lYfRMeacMv06aKApy3fJJOzf6-r1IwzS1s6_b0c.webp?r=3ab",
+    "Category": ["Drama", "Romance"]
+  },
+  {
+    "Id": 77,
+    "Title": "Mission: Impossible",
+    "Description": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/199/116/1687415449-6fa398e9c6a715fd429998eb8c11c45e9bdb3917.jpg?",
+    "Category": ["Action", "Adventure", "Thriller"]
+  },
+  {
+    "Id": 78,
+    "Title": "Mission: Impossible 2",
+    "Description": "Ethan Hunt, now a part of the IMF, is sent to Sydney to find and destroy a genetically modified disease called 'Chimera.'",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/229/896/1687417186-2bcbab4309b7b3f3aa344c8f16dcbae444b9987b.jpg",
+    "Category": ["Action", "Adventure", "Thriller"]
+  },
+  {
+    "Id": 79,
+    "Title": "Mission: Impossible III",
+    "Description": "Ethan Hunt comes face to face with a dangerous and sadistic arms dealer while trying to keep his personal life stable.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/233/800/1687418354-6d844829ea1d329a4b82fc750a7711613d3f2938.jpg?",
+    "Category": ["Action", "Adventure", "Thriller"]
+  },
+  {
+    "Id": 80,
+    "Title": "Mission: Impossible - Ghost Protocol",
+    "Description": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/249/416/1687420684-c63276688385c8ee3b977c0a4878574358eb3708.jpg",
+    "Category": ["Action", "Adventure", "Thriller"]
+  },
+  {
+    "Id": 81,
+    "Title": "Mission: Impossible - Rogue Nation",
+    "Description": "Ethan and his team take on their most impossible mission yet when they have to eradicate an international rogue organization as highly skilled as they are.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/7/84/1687168025-fd8b8e896c444b6d7ef018cd16176837c48fc701.jpg?",
+    "Category": ["Action", "Adventure", "Thriller"]
+  },
+  {
+    "Id": 82,
+    "Title": "Mission: Impossible - Fallout",
+    "Description": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/221/88/1687416016-79b8847db0e4a7c6762cd57c91659cd5bd45f45d.jpg?",
+    "Category": ["Action", "Adventure", "Thriller"]
+  },
+  {
+    "Id": 83,
+    "Title": "Die Hard",
+    "Description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "Image": ";https://i-viaplay-com.akamaized.net/viaplay-prod/394/120/1460157948-f35d94bde3ab2529ed7a5534bdf46c25ecffd6fa.jpg",
+    "Category": ["Action", "Thriller"]
+  },
+  {
+    "Id": 84,
+    "Title": "Die Hard 2: Die Harder",
+    "Description": "John McClane attempts to avert disaster as rogue military officials seize control of Dulles International Airport in Washington, D.C.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/93/72/1459946561-615bbe9e14d51568b952aeccc18277ab1a761050.jpg?",
+    "Category": ["Action", "Thriller"]
+  },
+  {
+    "Id": 85,
+    "Title": "Die Hard with a Vengeance",
+    "Description": "John McClane and a Harlem store owner are targeted by German terrorist Simon Gruber in New York City, where he plans to rob the Federal Reserve Building.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/250/508/1586944999-2197496cee534172d89ebc3f737d051a8cc0b977.jpg",
+    "Category": ["Action", "Thriller"]
+  },
+  {
+    "Id": 86,
+    "Title": "Live Free or Die Hard",
+    "Description": "John McClane takes on an Internet-based terrorist organization who is systematically shutting down the United States.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/720/40/1464098712-44dec2bd4926a3770d734198069a164452f546a4.jpg",
+    "Category": ["Action", "Thriller"]
+  },
+  {
+    "Id": 87,
+    "Title": "A Good Day to Die Hard",
+    "Description": "John McClane travels to Russia to help out his seemingly wayward son, Jack, only to discover that Jack is a CIA operative working undercover.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/277/104/1460158616-de288c356cacc91e552ef0bdd3c03c5e55808926.jpg",
+    "Category": ["Action", "Thriller"]
+  },
+  {
+    "Id": 88,
+    "Title": "Paranormal Activity",
+    "Description": "After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/934/436/1539605937-fad84ed8b53455137873d3cce7a72b7ac59dc72a.jpg",
+    "Category": ["Horror"]
+  },
+  {
+    "Id": 89,
+    "Title": "Paranormal Activity 2",
+    "Description": "After experiencing what they think are a series of 'break-ins', a family sets up security cameras around their home, only to realize that the events unfolding before them are more sinister than they seem.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/780/284/1538124439-b04ebbb4e44fe5336011783ccf236ea451a70bc4.jpg?",
+    "Category": ["Horror"]
+  },
+  {
+    "Id": 90,
+    "Title": "Paranormal Activity 3",
+    "Description": "In 1988, young sisters Katie and Kristi befriend an invisible entity who resides in their home.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/780/784/1538124984-6900b760fc3e5d4149626c066235a050281c756e.jpg  ",
+    "Category": ["Horror"]
+  },
+  {
+    "Id": 91,
+    "Title": "Paranormal Activity 4",
+    "Description": "It has been five years since the disappearance of Katie and Hunter, and a suburban family witnesses strange events in their neighborhood when a woman and a mysterious child move in.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/270/448/1538125442-576aaeac34afb18c81089f9feef4231d744439bf.jpg",
+    "Category": ["Horror"]
+  },
+  {
+    "Id": 92,
+    "Title": "Paranormal Activity: The Marked Ones",
+    "Description": "After being 'marked', Jesse begins to be pursued by mysterious forces while his family and friends try to save him.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/755/112/1529921349-6dfbf7cc9fd5c1092765286edc23590f07341ec3.jpg",
+    "Category": ["Horror"]
+  },
+  {
+    "Id": 93,
+    "Title": "Paranormal Activity: The Ghost Dimension",
+    "Description": "Using a special camera that can see spirits, a family must protect their daughter from an evil entity with a sinister plan.",
+    "Image": "https://i-viaplay-com.akamaized.net/viaplay-prod/270/948/1460169110-1a69f1e3189fda62a5ce242f7cef6d5ef454ce91.jpg",
+    "Category": ["Horror"]
+  },
+  {
+    "Id": 94,
+    "Title": "The Hunger Games",
+    "Description": "Katniss Everdeen volunteers to take her younger sister's place in a televised competition in which teenagers from 12 different districts must fight to the death.",
+    "Image": "https://occ-0-149-4419.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZMkef3IdNKtIUgAF7HkWZm9IW_Bp1Iu1yYKwvOTUEcYXJEtX4nvNGu7GOBCQ5qBU0NFAfXU8dFQe7itSApKkb_qWyiEYR2IXTc.webp?r=ccc",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 95,
+    "Title": "The Hunger Games: Catching Fire",
+    "Description": "Katniss and Peeta are targets of  the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+    "Image": "https://occ-0-149-4419.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdFoBDk3OAU9A6cPMG90OnaaMFYxGeJba9svx10D94aziVknU_HMd7bD0M036EnCPeGEe4Am5EQiSjDXkRKbz4ZSNwF2UBBLnr4.webp?r=5a8",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 96,
+    "Title": "The Hunger Games: Mockingjay - Part 1",
+    "Description": "Katniss Everdeen becomes the symbol of the rebellion after she shatters the games forever. Peeta Mellark is taken hostage by the Capitol.",
+    "Image": "https://occ-0-149-4419.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABTo5qEoSSYMLGOWdIitWTgnGNPQeXPPVbyBARmsGL8VKpj6CoVGczSflVoaiKVp6gposPfjnQVhjhn6J_dKdL8unQKjBAW0rLZY.webp?r=30d",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "Id": 97,
+    "Title": "The Hunger Games: Mockingjay - Part 2",
+    "Description": "As the war of Panem escalates to the destruction of other districts, Katniss Everdeen, the reluctant leader of the rebellion, must bring together an army against President Snow, while all she holds dear hangs in the balance.",
+    "Image": "https://occ-0-149-4419.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABVe0AKMLaRvkbGlHmXbKb-wvLb21VdM-GHJ1FLbuYk1vMdO872xR490hSfDpifomNedlh8W0tPn6DM4Pesb2AA7bWWz1XbosuhI.webp?r=27c-",
+    "Category": ["Action", "Adventure", "Sci-Fi"]
+  }
+]
